@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1013-fibonacci-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
 ## Number Theory
@@ -25,9 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
