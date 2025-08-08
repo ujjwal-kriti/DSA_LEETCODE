@@ -21,6 +21,7 @@ public:
 
     int depth=0;
     string res;
+    res.reserve(s.size()); // avoid reallocations
     for(char c: s){
         if(c=='(' && depth++> 0)  res+=c;
         if(c==')' && --depth > 0) res+=c;
