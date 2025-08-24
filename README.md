@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
+| [0990-verifying-an-alien-dictionary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0990-verifying-an-alien-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1904-second-largest-digit-in-a-string) |
 ## Dynamic Programming
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0792-binary-search) |
+| [0990-verifying-an-alien-dictionary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0990-verifying-an-alien-dictionary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0990-verifying-an-alien-dictionary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0990-verifying-an-alien-dictionary) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1904-second-largest-digit-in-a-string) |
 ## Stack
 |  |
