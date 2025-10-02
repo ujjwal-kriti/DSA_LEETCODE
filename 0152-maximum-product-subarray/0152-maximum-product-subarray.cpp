@@ -12,5 +12,16 @@ public:
            
         }
         return maxp;
+
+        // using kadane's algorithm
+
+        // int maxp=nums[0];
+        // int curr_max=nums[0];
+        // int curr_min=nums[0];
+        // for(int i=1;i<n;i++){
+        //     if
+            
+        // }
+
     }
 };
