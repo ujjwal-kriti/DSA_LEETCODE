@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
