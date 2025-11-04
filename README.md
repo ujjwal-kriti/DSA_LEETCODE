@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0990-verifying-an-alien-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1904-second-largest-digit-in-a-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
