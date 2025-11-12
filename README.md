@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1013-fibonacci-number) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3799-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2737-row-with-maximum-ones](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2737-row-with-maximum-ones) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0990-verifying-an-alien-dictionary) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1904-second-largest-digit-in-a-string) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3799-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0812-rotate-string) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
