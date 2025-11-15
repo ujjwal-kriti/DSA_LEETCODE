@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1013-fibonacci-number) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3799-unique-3-digit-even-numbers) |
@@ -226,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3799-unique-3-digit-even-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
