@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [1078-remove-outermost-parentheses](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1078-remove-outermost-parentheses) |
@@ -243,4 +244,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
