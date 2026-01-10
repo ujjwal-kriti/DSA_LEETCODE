@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0383-ransom-note) |
 | [0812-rotate-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0812-rotate-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0990-verifying-an-alien-dictionary) |
 | [1078-remove-outermost-parentheses](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1078-remove-outermost-parentheses) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0990-verifying-an-alien-dictionary) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1904-second-largest-digit-in-a-string) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0383-ransom-note) |
 ## Simulation
 |  |
 | ------- |
