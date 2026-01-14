@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 ## String Matching
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -314,9 +316,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0450-delete-node-in-a-bst) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
