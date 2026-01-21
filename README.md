@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0978-longest-turbulent-subarray](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [1013-fibonacci-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0792-binary-search) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [2737-row-with-maximum-ones](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2737-row-with-maximum-ones) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
