@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
+| [0978-longest-turbulent-subarray](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [1013-fibonacci-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0792-binary-search) |
+| [0978-longest-turbulent-subarray](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0990-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0978-longest-turbulent-subarray](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 ## Greedy
 |  |
 | ------- |
