@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0990-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2737-row-with-maximum-ones](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2737-row-with-maximum-ones) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 | [2737-row-with-maximum-ones](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2737-row-with-maximum-ones) |
 ## Prefix Sum
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -350,4 +354,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
