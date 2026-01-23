@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1013-fibonacci-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0812-rotate-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0990-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1021-remove-outermost-parentheses) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
