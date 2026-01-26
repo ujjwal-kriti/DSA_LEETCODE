@@ -8,6 +8,7 @@ class Solution {
             if(sum>max_sum){
                 max_sum=sum;
             }
+            //If your current sum becomes negative, it will only reduce the sum of any future subarray
             if(sum<0){
                 sum=0;
             }
