@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0812-rotate-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0812-rotate-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0990-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1021-remove-outermost-parentheses) |
