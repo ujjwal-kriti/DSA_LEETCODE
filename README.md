@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0409-longest-palindrome) |
@@ -231,17 +233,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0383-ransom-note) |
 ## Simulation
 |  |
@@ -387,4 +392,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0802-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
