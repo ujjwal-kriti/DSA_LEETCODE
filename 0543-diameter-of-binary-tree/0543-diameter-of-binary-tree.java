@@ -13,29 +13,41 @@
  *     }
  * }
  */
-
  // ----------------brute force---------------------
  //Brute force approach
  //At each node, you calculate height of left and height of right separately for every node, AND
  //Check balance/diameter for every node independently
 //Problem: heights are recalculated many times → O(n²)
-
-
-class Solution {
-    //--------optimal approach ------------------
-    int diameter=0;
-    public int diameterOfBinaryTree(TreeNode root) {
-        //Height → longest path from a node to a leaf
-        //Diameter → longest path between two nodes
-       height(root);
-       return diameter;
+class  Solution{
+     public int diameterOfBinaryTree(TreeNode root) {
+        if(root==null) return 0;
+      int left=height(root.left);
+      int right=height(root.right);
+      int dia=left+right;
+      int leftdia=diameterOfBinaryTree(root.left);
+      int rightdia=diameterOfBinaryTree(root.right);
+      return Math.max(dia,Math.max(leftdia,rightdia));
     }
-    int height(TreeNode root){
-         if(root==null) return 0;
-        int left=height(root.left);
-        int right=height(root.right);
-      diameter=Math.max(diameter,left+right);
-      //After updating diameter, we return height to parent:
-      return 1+Math.max(left,right);
+    private int height(TreeNode root){
+        if(root==null)return 0;
+        return 1+Math.max(height(root.left),height(root.right));
     }
 }
+// class Solution {
+//     //--------optimal approach ------------------
+//     int diameter=0;
+//     public int diameterOfBinaryTree(TreeNode root) {
+//         //Height → longest path from a node to a leaf
+//         //Diameter → longest path between two nodes
+//        height(root);
+//        return diameter;
+//     }
+//     int height(TreeNode root){
+//          if(root==null) return 0;
+//         int left=height(root.left);
+//         int right=height(root.right);
+//       diameter=Math.max(diameter,left+right);
+//       //After updating diameter, we return height to parent:
+//       return 1+Math.max(left,right);
+//     }
+// }
