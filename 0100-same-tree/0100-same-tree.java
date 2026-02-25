@@ -16,10 +16,11 @@
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
         // brute force 
-        if((p ==null ) && (q==null)) return true;
-       if ((p == null && q != null) || (p != null && q == null)) return false;
-       if(p.val!=q.val) return false;
-       return isSameTree(p.left,q.left) && isSameTree(p.right,q.right);
-
+       if((p==null)&&(q==null))return true;
+       if((p==null && q!=null) || (p!=null &&q==null ))return false;
+        if(p.val!=q.val)return false;
+        return isSameTree(p.right,q.right)&& isSameTree(p.left,q.left);
     }
 }
+// fo this prblm tc=0(n)
+// but improvment u can use stack and queue but tc will be same a srecursion itself is giving optimal approach
