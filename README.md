@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2498-frog-jump-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2498-frog-jump-ii) |
 | [2737-row-with-maximum-ones](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2737-row-with-maximum-ones) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3799-unique-3-digit-even-numbers) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0792-binary-search) |
+| [2498-frog-jump-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2498-frog-jump-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0409-longest-palindrome) |
+| [2498-frog-jump-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2498-frog-jump-ii) |
 ## Union Find
 |  |
 | ------- |
