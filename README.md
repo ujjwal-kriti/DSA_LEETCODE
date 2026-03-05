@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1904-second-largest-digit-in-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
