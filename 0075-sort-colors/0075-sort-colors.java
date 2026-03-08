@@ -29,3 +29,4 @@ class Solution {
         }
     }
 }
+//Dutch National Flag Algorithm) u can use for better approach
