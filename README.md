@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0189-rotate-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -443,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
