@@ -15,30 +15,35 @@
  */
 class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
-        if(root==null){
-            return  null;
-        }
+       if(root==null)return null;
+       //case 1: key is ledss or greater
         if(key<root.val){
-            root.left=deleteNode(root.left,key);
+            root.left=deleteNode(root.left, key);
         }else if(key>root.val){
-            root.right=deleteNode(root.right,key);
+            root.right=deleteNode( root.right, key);
         }
+        //case 2:   node has 0 or 1 child
         else{
-            //case 1 & 2  child
-            if(root.left==null) return root.right;
-            if(root.right==null) return root.left;
-            //case 3:  node has 2 children
-            TreeNode successor=findMin(root.right);
-            root.val=successor.val;
-            root.right=deleteNode(root.right,successor.val);
+            if(root.left==null){
+                return root.right;
+            }
+            if(root.right==null){
+                return root.left;
+            }
+            //case 3: two children
+            TreeNode temp=findMin(root.right);
+            root.val=temp.val;
+           root.right= deleteNode( root.right,temp.val);
+        
         }
         return root;
     }
-    //helper function
-    private TreeNode findMin(TreeNode node){
-        while(node.left!=null){
-            node=node.left;
+        
+        private TreeNode findMin( TreeNode root){
+            while(root.left!=null){
+                root= root.left;
+            }
+            return root;
         }
-        return node;
-    }
+    
 }
