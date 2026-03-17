@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0733-flood-fill) |
