@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0804-unique-morse-code-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0804-unique-morse-code-words) |
 | [0812-rotate-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0812-rotate-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0990-verifying-an-alien-dictionary) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0978-longest-turbulent-subarray](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [1013-fibonacci-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1078-remove-outermost-parentheses) |
 ## Design
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0860-lemonade-change) |
 | [2498-frog-jump-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2498-frog-jump-ii) |
 ## Union Find
