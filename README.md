@@ -468,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
