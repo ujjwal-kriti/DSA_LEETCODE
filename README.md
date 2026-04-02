@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0482-license-key-formatting) |
 | [0678-valid-parenthesis-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0804-unique-morse-code-words) |
 | [0812-rotate-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0812-rotate-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0990-verifying-an-alien-dictionary) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0812-rotate-string) |
 ## Enumeration
 |  |
