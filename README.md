@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
