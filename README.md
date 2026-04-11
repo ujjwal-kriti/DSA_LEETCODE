@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1013-fibonacci-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Number Theory
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2498-frog-jump-ii) |
 | [2737-row-with-maximum-ones](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2737-row-with-maximum-ones) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sliding Window
 |  |
 | ------- |
