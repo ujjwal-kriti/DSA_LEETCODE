@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
