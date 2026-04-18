@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0062-unique-paths) |
+| [0115-distinct-subsequences](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
