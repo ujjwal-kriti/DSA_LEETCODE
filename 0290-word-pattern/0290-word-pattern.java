@@ -26,7 +26,7 @@ class Solution {
             // Check character → word
             if (charToWord.containsKey(ch)) {
                 if (!charToWord.get(ch).equals(word)) {
-                    return false;
+                    return false;,
                 }
             } else {
                 charToWord.put(ch, word);
@@ -41,7 +41,6 @@ class Solution {
                 wordToChar.put(word, ch);
             }
         }
-
         return true;
     }
 }
