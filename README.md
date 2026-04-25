@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0990-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0792-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [2498-frog-jump-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2498-frog-jump-ii) |
 ## Sorting
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sliding Window
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
