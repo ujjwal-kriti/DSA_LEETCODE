@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0290-word-pattern) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0383-ransom-note) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1078-remove-outermost-parentheses) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
