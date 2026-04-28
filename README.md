@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0733-flood-fill) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0322-coin-change) |
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
