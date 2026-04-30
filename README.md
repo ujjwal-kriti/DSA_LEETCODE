@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0647-palindromic-substrings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0482-license-key-formatting) |
 | [0583-delete-operation-for-two-strings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0804-unique-morse-code-words) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
+| [0647-palindromic-substrings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0978-longest-turbulent-subarray](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [1013-fibonacci-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1013-fibonacci-number) |
