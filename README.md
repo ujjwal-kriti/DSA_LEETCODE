@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
