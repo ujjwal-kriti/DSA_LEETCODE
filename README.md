@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0119-pascals-triangle-ii) |
