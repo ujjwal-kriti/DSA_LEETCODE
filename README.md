@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0792-binary-search) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0860-lemonade-change) |
 | [2498-frog-jump-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2498-frog-jump-ii) |
