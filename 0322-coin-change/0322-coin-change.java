@@ -1,38 +1,58 @@
-    class Solution {
-        public int coinChange(int[] coins, int amount) {
-            //--------------------greedy approach--------------
+class Solution {
 
-        // Arrays.sort(coins);
-        // int count=0;
-        // for(int i=coins.length-1;i>=0;i--){
-        //         while(amount>=coins[i]){
-        //             amount-=coins[i];
-        //             count++;
-        //         }
-        // }
-        // if(amount!=0){
-        //     return -1;
-        // }
-        // return count;
+    public int coinChange(int[] coins, int amount) {
 
-        //----------------------tabulation approach-----------
-        int[] dp=new int[amount+1];
-        Arrays.fill(dp,amount+1);
-        dp[0]=0;
-        for(int i=1;i<=amount;i++){
-            for(int coin:coins){
-               if(i>=coin){
-                int remaining_coin=i-coin;
-                int totalcoins=1+dp[remaining_coin];
-                dp[i]=Math.min(dp[i],totalcoins);
-               }
+        int n = coins.length;
+
+        int[][] dp = new int[n + 1][amount + 1];
+
+        // infinity initialization
+        for(int i = 0; i <= n; i++) {
+            for(int j = 0; j <= amount; j++) {
+                dp[i][j] = Integer.MAX_VALUE - 1;
             }
         }
-        if(dp[amount]>amount){
-            return -1;
-        }else{
-            return dp[amount];
+
+        // amount 0 needs 0 coins
+        for(int i = 0; i <= n; i++) {
+            dp[i][0] = 0;
         }
 
+        // first row initialization
+        for(int j = 1; j <= amount; j++) {
+
+            if(j % coins[0] == 0) {
+                dp[1][j] = j / coins[0];
+            }
         }
+
+        for(int i = 2; i <= n; i++) {
+
+            for(int j = 1; j <= amount; j++) {
+
+                if(coins[i - 1] <= j) {
+
+                    int take =
+                        1 + dp[i][j - coins[i - 1]];
+
+                    int not_take =
+                        dp[i - 1][j];
+
+                    dp[i][j] =
+                        Math.min(take, not_take);
+
+                }
+                else {
+
+                    dp[i][j] = dp[i - 1][j];
+                }
+            }
+        }
+
+        if(dp[n][amount] == Integer.MAX_VALUE - 1) {
+            return -1;
+        }
+
+        return dp[n][amount];
     }
+}
