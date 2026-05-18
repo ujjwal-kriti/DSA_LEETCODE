@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0500-keyboard-row) |
 | [0583-delete-operation-for-two-strings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0494-target-sum) |
+| [0500-keyboard-row](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0652-find-duplicate-subtrees](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0652-find-duplicate-subtrees) |
