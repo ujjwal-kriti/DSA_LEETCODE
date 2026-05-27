@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0792-binary-search) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0792-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [2498-frog-jump-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2498-frog-jump-ii) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0978-longest-turbulent-subarray](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -597,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
