@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0692-top-k-frequent-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0804-unique-morse-code-words) |
 | [0812-rotate-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0812-rotate-string) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0692-top-k-frequent-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0792-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0804-unique-morse-code-words) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0652-find-duplicate-subtrees](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0652-find-duplicate-subtrees) |
+| [0692-top-k-frequent-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0804-unique-morse-code-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0804-unique-morse-code-words) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0904-fruit-into-baskets) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0692-top-k-frequent-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Divide and Conquer
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
+| [0692-top-k-frequent-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 ## Simulation
 |  |
 | ------- |
@@ -592,10 +597,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -630,4 +637,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
 | [2104-sum-of-subarray-ranges](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
