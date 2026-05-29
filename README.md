@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0290-word-pattern) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0344-reverse-string) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
