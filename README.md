@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1859-sorting-the-sentence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1904-second-largest-digit-in-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0767-reorganize-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1859-sorting-the-sentence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Divide and Conquer
 |  |
