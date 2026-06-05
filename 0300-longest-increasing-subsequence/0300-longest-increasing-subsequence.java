@@ -18,31 +18,60 @@
 //         return Math.max(take, notTake);
 //     }
 // }
+
+
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        int n = nums.length;
+        // int n = nums.length;
 
-        // dp[ind][prev+1]
-        int[][] dp = new int[n + 1][n + 1];
+        // // dp[ind][prev+1]
+        // int[][] dp = new int[n + 1][n + 1];
 
-        // base case already 0 (when ind == n)
+        // // base case already 0 (when ind == n)
 
-        for (int ind = n - 1; ind >= 0; ind--) {
-            for (int prev = ind - 1; prev >= -1; prev--) {
+        // for (int ind = n - 1; ind >= 0; ind--) {
+        //     for (int prev = ind - 1; prev >= -1; prev--) {
 
-                // option 1: not take
-                int notTake = dp[ind + 1][prev + 1];
+        //         // option 1: not take
+        //         int notTake = dp[ind + 1][prev + 1];
 
-                // option 2: take
-                int take = 0;
-                if (prev == -1 || nums[ind] > nums[prev]) {
-                    take = 1 + dp[ind + 1][ind + 1];
+        //         // option 2: take
+        //         int take = 0;
+        //         if (prev == -1 || nums[ind] > nums[prev]) {
+        //             take = 1 + dp[ind + 1][ind + 1];
+        //         }
+
+        //         dp[ind][prev + 1] = Math.max(take, notTake);
+        //     }
+        // }
+
+        // return dp[0][0]; // corresponds to helper(0, -1)
+
+
+
+         int n = nums.length;
+
+        int[] dp = new int[n];
+
+        // Every element itself is a subsequence of length 1
+        Arrays.fill(dp, 1);
+
+        for(int i = 1; i < n; i++) {
+
+            for(int j = 0; j < i; j++) {
+
+                if(nums[j] < nums[i]) {
+                    dp[i] = Math.max(dp[i], 1 + dp[j]);
                 }
-
-                dp[ind][prev + 1] = Math.max(take, notTake);
             }
         }
 
-        return dp[0][0]; // corresponds to helper(0, -1)
+        int ans = 0;
+
+        for(int x : dp) {
+            ans = Math.max(ans, x);
+        }
+
+        return ans;
     }
 }
