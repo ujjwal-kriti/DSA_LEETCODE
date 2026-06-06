@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0504-base-7) |
+| [0516-longest-palindromic-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0647-palindromic-substrings) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
