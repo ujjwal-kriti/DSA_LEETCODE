@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1013-fibonacci-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
+| [2965-find-missing-and-repeated-values](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Number Theory
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2498-frog-jump-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2737-row-with-maximum-ones](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2737-row-with-maximum-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0990-verifying-an-alien-dictionary](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0990-verifying-an-alien-dictionary) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1904-second-largest-digit-in-a-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3799-unique-3-digit-even-numbers) |
 ## Stack
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
 | [2737-row-with-maximum-ones](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2737-row-with-maximum-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
