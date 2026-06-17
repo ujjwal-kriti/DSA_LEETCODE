@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1859-sorting-the-sentence) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1904-second-largest-digit-in-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3614-process-string-with-special-operations-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0415-add-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3614-process-string-with-special-operations-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
 ## Matrix
 |  |
 | ------- |
