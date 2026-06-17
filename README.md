@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0415-add-strings) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0402-remove-k-digits](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1078-remove-outermost-parentheses) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0455-assign-cookies) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0402-remove-k-digits) |
 | [2104-sum-of-subarray-ranges](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 ## Trie
 |  |
