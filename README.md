@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1732-find-the-highest-altitude](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ujjwaltanubulbul/DSA_LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2104-sum-of-subarray-ranges](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ujjwal-kriti/DSA_LEETCODE/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sliding Window
